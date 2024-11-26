@@ -4,6 +4,17 @@ A ChatGPT App for dream interpretation based on ibn sisrin book "The interpretat
 ---
 # Dream Interpreter Application Project Plan
 
+![logo](assets/GPT-ibn-sirin.png)
+
+---
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black)
+![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
 ## Overview
 
 This project aims to create a dream interpretation application based on the Ibn Sirin method. The application will leverage modern AI technologies to provide users with personalized and insightful dream interpretations.
