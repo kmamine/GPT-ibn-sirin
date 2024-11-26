@@ -107,24 +107,18 @@ Vectorized representation for retrieval
 
 ## Resources
 
-Ibn Sirin Knowledge Base: Digitized and formatted dream interpretations.
+- **Ibn Sirin Knowledge Base**: Digitized and formatted dream interpretations.
+- **Pre-trained Models**: ChatGPT for NLP tasks.
+- **Vector Embedding Model**: OpenAI embeddings for indexing and retrieval.
 
-Pre-trained Models: ChatGPT for NLP tasks.
+## Success Metrics
+- High relevance of retrieved interpretations.
+- User satisfaction based on feedback.
+- Efficient system performance with minimal latency.
 
-Vector Embedding Model: OpenAI embeddings for indexing and retrieval.
+# Potential Challenges
+- Ensuring accurate and culturally sensitive interpretations.
+- Balancing simplicity and depth in the user interface.
+- Maintaining the quality of responses with diverse input scenarios.
 
-Success Metrics
 
-High relevance of retrieved interpretations.
-
-User satisfaction based on feedback.
-
-Efficient system performance with minimal latency.
-
-Potential Challenges
-
-Ensuring accurate and culturally sensitive interpretations.
-
-Balancing simplicity and depth in the user interface.
-
-Maintaining the quality of responses with diverse input scenarios.
