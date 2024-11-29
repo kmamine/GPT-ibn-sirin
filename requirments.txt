@@ -1,0 +1,7 @@
+Flask==2.2.2
+flask-cors==3.0.10
+chromadb==0.3.21
+langchain==0.0.200  # Adjust to the latest version as needed
+openai==0.27.0      # Adjust to the latest version as needed
+streamlit==1.10.0   # Adjust to the latest version as needed
+requests==2.26.0    # Adjust to the latest version as needed
