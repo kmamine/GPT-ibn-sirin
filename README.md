@@ -23,7 +23,7 @@ This project aims to create a dream interpretation application based on the Ibn 
 
 1. LLM: ChatGPT Agents
 2. Backend: Flask, LangChain
-3. RAG: SQLite-vector for knowledge base retrieval
+3. RAG: ChromaDB
 4. Frontend: Streamlit
 
 ## User Story
@@ -49,7 +49,7 @@ Manages user inputs and triggers the LangChain pipeline.
 **LangChain**:
 Orchestrates the LLM for information extraction and response generation.
 Integrates with the SQLite-vector knowledge base for relevant segment retrieval.
-- ### RAG System (SQLite-vector)
+- ### RAG System (ChromaDB)
 **Knowledge Base**:
 Contains indexed dream interpretations and related content based on the Ibn Sirin method.
 **Retrieval**:
