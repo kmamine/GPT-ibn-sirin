@@ -132,4 +132,47 @@ Vectorized representation for retrieval
 - Balancing simplicity and depth in the user interface.
 - Maintaining the quality of responses with diverse input scenarios.
 
+---
 
+Clone the repo 
+```Shell
+git clone https://github.com/kmamine/GPT-ibn-sinin.git
+```
+Navigate to the app folder 
+```Shell
+cd GPT-ibn-sirin/src
+```
+Create a Virtual Environment 
+```Shell
+python -m venv venv
+```
+Activate the virtual environment:
+
+
+1. **On Windows**: 
+```Shell
+venv\Scripts\activate
+```
+
+2. **Linux** : 
+```Shell
+source venv/Sbin/activate
+```
+
+Install dependencies :
+```Shell
+pip install -r requirements.txt
+```
+
+To Launch the backend server :
+
+```Shell
+python backend/app.py
+```
+You should see output indicating that the Flask server is running, typically at http://localhost:5000/.
+
+Launch the frontend app: 
+```Shell
+streamlit run app.py
+```
+After a few moments, Streamlit should open a new tab in your default web browser, typically at http://localhost:8501/.
